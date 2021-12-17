@@ -3,7 +3,9 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=GangpyoNo&fontSize=70) -->
 
-  <h2>Hi,there! 👋</<h2>
+  <h2>d0ngwooK1m</<h2>
+    
+    <br />
     
   <h3>🛠Technology Stack🛠</h3>
 
@@ -21,13 +23,11 @@
   
   <h3> contact 👨‍💻</h3>
     
-<a href="https://velog.io/@shrkdvy123"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a></br>
   
   
   
  <h3> 1 day 1 commit 🌱</h3>
      
-[![commit combo](http://commitcombo.com/get?user=GangpyoNo&theme=BasicWhite&v=1)](https://github.com/devxb/commitcombo)
   
   
   
