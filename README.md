@@ -3,9 +3,10 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=GangpyoNo&fontSize=70) -->
 
-  <h2>d0ngwooK1m</<h2>
+  <h2>d0ngwooK1m😎</<h2>
     
   <br />
+  <h3>Junior Front-end Developer</h3>
     
   <h3>🛠Technology Stack🛠</h3>
 
